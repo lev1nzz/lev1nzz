@@ -11,7 +11,7 @@ I have just started my journey, but I already have great success
 
 ## I'm a learning:
 
-![Python]( https://img.shields.io/badge/%20Python-000080)
+![Python](https://img.shields.io/badge/python?style=for-the-badge&logo=Python&logoColor=000080)
 ![Django]( https://img.shields.io/badge/%20Django-228B22)
 ![FastAPI]( https://img.shields.io/badge/%20FastApi-808080)
 ![SQL]( https://img.shields.io/badge/%20SQL-008080)
@@ -20,4 +20,5 @@ I have just started my journey, but I already have great success
 ![Redis]( https://img.shields.io/badge/%20Redis-FF4500)
 ![Pytest]( https://img.shields.io/badge/%20Pytest-5F9EA0)
 
-Follow me
+## Follow me: 
+
