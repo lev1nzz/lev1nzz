@@ -4,7 +4,17 @@
 
 
 I'am a learning:
-![Python]( https://img.shields.io/badge/%20python-00FFFF)
+
+![Python]( https://img.shields.io/badge/%20Python-000080)
+![Django]( https://img.shields.io/badge/%20Django-228B22)
+![FastAPI]( https://img.shields.io/badge/%20FastApi-808080)
+![SQL]( https://img.shields.io/badge/%20SQL-008080)
+![PostgresSQL]( https://img.shields.io/badge/%20PostgresSQL-87CEEB)
+![Docker]( https://img.shields.io/badge/%20Docker-00FFFF)
+![Redis]( https://img.shields.io/badge/%20Redis-#FF4500)
+![Pytest]( https://img.shields.io/badge/%20Pytest-5F9EA0)
+
+
 
 Language and tools
 
