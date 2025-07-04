@@ -20,7 +20,7 @@ I have just started my journey, but I already have great success
 ![Redis]( https://img.shields.io/badge/%20Redis-FF4500)
 ![Pytest]( https://img.shields.io/badge/%20Pytest-5F9EA0)
 
-## Follow me: 
+## My stats GIT: 
 
 ![lev1nzz's Stats](https://github-readme-stats.vercel.app/api?username=lev1nzz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![lev1nzz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lev1nzz&theme=vue-dark&hide_border=true)
