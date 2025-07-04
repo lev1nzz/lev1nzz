@@ -22,6 +22,6 @@ I have just started my journey, but I already have great success
 
 ## My stats GIT: 
 
-![lev1nzz's Stats](https://github-readme-stats.vercel.app/api?username=lev1nzz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![lev1nzz's Stats](https://github-readme-stats.vercel.app/api?username=lev1nzz&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![lev1nzz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lev1nzz&theme=vue-dark&hide_border=true)
 ![lev1nzz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lev1nzz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
