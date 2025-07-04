@@ -7,7 +7,7 @@ I'm a beginner python backend developer from Russia
 I have just started my journey, but I already have great success
 
 
-I'm a learning:
+## I'm a learning:
 
 ![Python]( https://img.shields.io/badge/%20Python-000080)
 ![Django]( https://img.shields.io/badge/%20Django-228B22)
