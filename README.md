@@ -2,14 +2,14 @@
 
 [![Header](https://github.com/lev1nzz/lev1nzz/blob/main/assets/github-snake.svg)](https://github.com/lev1nzz/all-sorts-of-programs)
 
-## About me:
+## 📍 About me:
 I'm a beginner python backend developer from Russia
 
 
 I have just started my journey, but I already have great success
 
 
-## I'm a learning:
+## 📚 I'm a learning:
 
 ![Python]( https://img.shields.io/badge/%20Python-000080)
 ![Django]( https://img.shields.io/badge/%20Django-228B22)
@@ -20,7 +20,7 @@ I have just started my journey, but I already have great success
 ![Redis]( https://img.shields.io/badge/%20Redis-FF4500)
 ![Pytest]( https://img.shields.io/badge/%20Pytest-5F9EA0)
 
-## My stats GIT: 
+## 📊 My stats GIT: 
 
 ![lev1nzz's Stats](https://github-readme-stats.vercel.app/api?username=lev1nzz&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![lev1nzz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lev1nzz&theme=tokyonight&hide_border=true)
