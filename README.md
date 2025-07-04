@@ -11,7 +11,7 @@ I'am a learning:
 ![SQL]( https://img.shields.io/badge/%20SQL-008080)
 ![PostgresSQL]( https://img.shields.io/badge/%20PostgresSQL-87CEEB)
 ![Docker]( https://img.shields.io/badge/%20Docker-00FFFF)
-![Redis]( https://img.shields.io/badge/%20Redis-#FF4500)
+![Redis]( https://img.shields.io/badge/%20Redis-FF4500)
 ![Pytest]( https://img.shields.io/badge/%20Pytest-5F9EA0)
 
 
