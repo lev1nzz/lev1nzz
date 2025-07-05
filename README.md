@@ -24,3 +24,7 @@ I have just started my journey, but I already have great success
 
 ![lev1nzz's Stats](https://github-readme-stats.vercel.app/api?username=lev1nzz&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![lev1nzz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lev1nzz&theme=tokyonight&hide_border=true)
+
+## 📊 My stats LeetCode:
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/lev1nxxx?theme=nord&font=Roboto&ext=contest)
