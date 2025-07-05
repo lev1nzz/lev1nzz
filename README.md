@@ -18,7 +18,9 @@ I have just started my journey, but I already have great success
 ![PostgresSQL]( https://img.shields.io/badge/%20PostgresSQL-87CEEB)
 ![Docker]( https://img.shields.io/badge/%20Docker-00FFFF)
 ![Redis]( https://img.shields.io/badge/%20Redis-FF4500)
+![GIT]( https://img.shields.io/badge/%20Git-DC143C)
 ![Pytest]( https://img.shields.io/badge/%20Pytest-5F9EA0)
+
 
 ## 📊 My stats GIT: 
 
