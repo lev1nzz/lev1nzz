@@ -1,13 +1,18 @@
-## 👋 HELLO! My name lev1nzz
+## 👋 HELLO! My name Anton
 
 [![Header](https://github.com/lev1nzz/lev1nzz/blob/main/assets/github-snake.svg)](https://github.com/lev1nzz/all-sorts-of-programs)
 
 ## 📍 About me:
-I'm a beginner python backend developer from Russia
+Aspiring Backend Developer | Python Enthusiast
 
+- 🔭 I’m currently learning and mastering **Python** for backend development.
+- 🌱 I’m exploring web frameworks like Django and FastAPI.
+- 💼 My goal is to become a professional **Backend Developer**.
+- 👨‍💻 All of my projects and study repositories are available here on GitHub.
+- 🤖 I enjoy building projects, both from scratch and with the assistance of AI tools.
+- 📫 How to reach me: [Your Email or Telegram Link]
 
-I have just started my journey, but I already have great success
-
+⚡ Fun fact: I believe the best way to learn is by doing and building things!
 
 ## 📚 I'm a learning:
 
