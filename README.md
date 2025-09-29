@@ -10,7 +10,7 @@ Aspiring Backend Developer | Python Enthusiast
 - 💼 My goal is to become a professional **Backend Developer**.
 - 👨‍💻 All of my projects and study repositories are available here on GitHub.
 - 🤖 I enjoy building projects, both from scratch and with the assistance of AI tools.
-- 📫 How to reach me: [Your Email or Telegram Link]
+- 📫 How to reach me: xlev1n.xxxx@gmail.com
 
 ⚡ Fun fact: I believe the best way to learn is by doing and building things!
 
