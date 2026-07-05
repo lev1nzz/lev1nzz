@@ -2,15 +2,22 @@
 
 [![Header](https://github.com/lev1nzz/lev1nzz/blob/main/assets/github-snake.svg)](https://github.com/lev1nzz/all-sorts-of-programs)
 
-## About
+## About:
 Backend developer with 1 year of hands-on experience building web services, APIs, and automation tools. Focused on practical problem-solving and production-ready code.
-Core stack: Python, FastAPI, PostgreSQL, Docker, Redis.
-Implemented RESTful services with authentication, request validation, and database modeling.
-Developed multiple automation scripts for data processing and system integration tasks.
-Built personal projects from scratch — from architecture design to deployment.
-Practice Git workflow, code reviews, and writing maintainable, documented code.
-Constantly learning and applying new tools through independent development.
-Currently looking for a junior backend role to work on real products and grow as an engineer.
+
+- Core stack: Python, FastAPI, PostgreSQL, Docker, Redis.
+
+- Implemented RESTful services with authentication, request validation, and database modeling.
+
+- Developed multiple automation scripts for data processing and system integration tasks.
+
+- Built personal projects from scratch — from architecture design to deployment.
+
+- Practice Git workflow, code reviews, and writing maintainable, documented code.
+
+- Constantly learning and applying new tools through independent development.
+
+- Currently looking for a junior backend role to work on real products and grow as an engineer.
 
 Contact: xlev1n.xxxx@gmail.com
 
